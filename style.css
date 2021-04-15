@@ -21,9 +21,12 @@
   }
    
 #secthree {
-  margin: 70px; height: 10px; align:
+  margin: 70px; height: 10px; 
 }
 
 #scroll {height: 400px; width: 300px;
   overflow: scroll; margin-left: 500px;
+}
+button {
+  float: right;
 }
