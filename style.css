@@ -1,0 +1,29 @@
+  #horizontal-list li{
+    display: inline-block; 
+    width: 20%; 
+    margin-right: 10px;
+  }
+
+  #horizontal-list {
+    float: right;
+    width: 600px;
+    margin-right: 200px;
+    margin-top: 30px;
+  }
+
+  #img2 {
+    margin-top: 5px;
+    margin-left: 100px;
+  }
+
+  #sec { margin-left: 125px;
+
+  }
+   
+#secthree {
+  margin: 70px; height: 10px; align:
+}
+
+#scroll {height: 400px; width: 300px;
+  overflow: scroll; margin-left: 500px;
+}
